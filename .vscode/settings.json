@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
+        "branca",
         "Carto",
         "Choropleth",
         "circlemarker",
@@ -7,9 +8,11 @@
         "darkgreen",
         "Geocoder",
         "glyphicon",
+        "hotspot",
         "iconstyle",
         "interactable",
         "latlng",
+        "lightgreen",
         "lightpink",
         "Machu",
         "Mahal",
@@ -19,6 +22,7 @@
         "OPENWEATHERMAP",
         "Picchu",
         "popupopen",
-        "Qutub"
+        "Qutub",
+        "webbrowser"
     ]
 }
